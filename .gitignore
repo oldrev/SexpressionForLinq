@@ -1,0 +1,12 @@
+**/bin/*
+**/obj/*
+/build/
+*.suo
+*.user
+*.nupkg
+packages/*/
+project.lock.json
+.vs
+tools
+.vscode
+
