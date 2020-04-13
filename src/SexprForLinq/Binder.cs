@@ -8,7 +8,7 @@ using System.Globalization;
 using Sprache;
 using System.Reflection;
 
-namespace SexpressionForLinq
+namespace SexprForLinq
 {
 
     internal delegate Expression NodeBinder(BindingContext context);

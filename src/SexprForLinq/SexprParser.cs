@@ -7,7 +7,7 @@ using System.Linq.Expressions;
 using Sprache;
 using System.Reflection;
 
-namespace SexpressionForLinq {
+namespace SexprForLinq {
     using static Sprache.Parse;
 
     /// <summary>

@@ -7,7 +7,7 @@ using System.Linq.Expressions;
 using System.Reflection;
 using Sprache;
 
-namespace SexpressionForLinq
+namespace SexprForLinq
 {
     /// <summary>
     /// 绑定过程中的上下文环境

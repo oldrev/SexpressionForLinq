@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SexpressionForLinq
+namespace SexprForLinq
 {
     public class BindingException : Exception
     {

@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xunit;
-using SexpressionForLinq;
-using SexpressionForLinq.Tests.Scenarios;
+using SexprForLinq;
+using SexprForLinq.Tests.Scenarios;
 
-namespace SexpressionForLinq.Tests
+namespace SexprForLinq.Tests
 {
 
     public class QueryableExtensionsTests

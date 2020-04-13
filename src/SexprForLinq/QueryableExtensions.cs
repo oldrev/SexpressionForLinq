@@ -6,7 +6,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SexpressionForLinq
+namespace SexprForLinq
 {
     /// <summary>
     /// IQueryable 的强类型和弱类型扩展

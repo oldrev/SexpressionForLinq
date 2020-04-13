@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Linq.Expressions;
 using Xunit;
-using SexpressionForLinq.Tests.Scenarios;
+using SexprForLinq.Tests.Scenarios;
 
-namespace SexpressionForLinq.Tests
+namespace SexprForLinq.Tests
 {
 
     public class SexprParserTests
